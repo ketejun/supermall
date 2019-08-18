@@ -12,7 +12,7 @@ Vue.use(VueRouter)
 //2.创建router
 const routes = [
   {
-    path: '',
+    path: '/',
     redirect: Home
   },
   {
